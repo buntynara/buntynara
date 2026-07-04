@@ -19,7 +19,7 @@ My experience spans enterprise application architecture, mobile and web platform
 
 ## 🧠 GenAI & AI Platform Experience
 
-I have worked on an **Enterprise GenAI Automation Platform** designed to automate and assist different stages of the software development lifecycle.
+I contribute to the architecture and development of an **Enterprise GenAI Automation Platform** designed to automate and assist different stages of the software development lifecycle.
 
 Key areas include:
 
@@ -27,7 +27,6 @@ Key areas include:
 * AI-assisted Jira story generation and refinement
 * Architecture impact analysis and technical workflow automation
 * Custom MCP server architecture and agent integration
-* Multi-agent communication using RabbitMQ
 * Conversation and agent memory using MongoDB
 * Amazon Bedrock-based LLM integration
 * Multi-session and multi-tenant platform architecture
