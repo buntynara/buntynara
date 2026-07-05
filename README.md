@@ -65,6 +65,18 @@ NumPy · pandas · Matplotlib · OpenCV · MySQL · SQLite · Firebase
 
 ## 📌 Featured Projects
 
+### [LangGraph Travel Planner](https://github.com/buntynara/langgraph-travel-planner)
+
+AI-powered travel planning workflow demonstrating multi-step LLM orchestration and parallel external data retrieval using LangGraph.
+
+* Structured travel request extraction using Pydantic and LLM output models
+* Origin and destination IATA code identification
+* Parallel flight and hotel retrieval workflows
+* Aviationstack API integration for flight information
+* Tavily Search integration for hotel discovery
+* AI-generated itinerary planning and final response aggregation
+* Shared graph state and LLM invocation tracking
+
 ### [LangGraph Memory Examples](https://github.com/buntynara/langgraph-memory-examples)
 
 Hands-on examples demonstrating conversational state management and memory persistence using LangGraph.
