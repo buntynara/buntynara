@@ -1,4 +1,4 @@
-# Hi, I'm Bunty 👋
+# Hi, I'm Bunty
 
 **Solution Architect | GenAI & AI Platforms | LLMs | Agentic AI | MCP | Python | AWS**
 
@@ -6,7 +6,7 @@ I am a technology professional with **16+ years of software engineering, archite
 
 My experience spans enterprise application architecture, mobile and web platforms, cloud technologies, and AI-driven automation. I enjoy turning complex engineering problems into scalable, maintainable solutions and exploring how **LLMs and AI agents can automate real-world enterprise workflows**.
 
-## 🚀 Current Focus
+## Current Focus
 
 * Generative AI and LLM-powered applications
 * Agentic AI and multi-agent architectures
@@ -17,7 +17,7 @@ My experience spans enterprise application architecture, mobile and web platform
 * Retrieval-Augmented Generation (RAG)
 * Cloud-native AI solutions
 
-## 🧠 GenAI & AI Platform Experience
+## GenAI & AI Platform Experience
 
 I contribute to the architecture and development of an **Enterprise GenAI Automation Platform** designed to automate and assist different stages of the software development lifecycle.
 
@@ -37,7 +37,7 @@ Key areas include:
 
 I have also independently developed AI proof-of-concepts to explore **LLM orchestration, MCP-based multi-agent systems, and AI-assisted test automation**.
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 **Generative AI & Agentic Systems**
 
@@ -63,7 +63,7 @@ Solution Architecture · HLD · MVC · MVVM · BLoC · Multi-Tenant Architecture
 
 NumPy · pandas · Matplotlib · OpenCV · MySQL · SQLite · Firebase
 
-## 📌 Featured Projects
+## Featured Projects
 
 ### [LangGraph Travel Planner](https://github.com/buntynara/langgraph-travel-planner)
 
@@ -89,14 +89,14 @@ Hands-on examples demonstrating conversational state management and memory persi
 
 More GenAI, MCP, RAG, and AI platform architecture projects are being added.
 
-## 🎓 Certifications & Continuous Learning
+## Certifications & Continuous Learning
 
 * AWS Certified Cloud Practitioner – CLF-C02
 * Google IT Automation with Python Professional Certificate
 * Maximize Productivity With AI Tools
 * Continuous learning across Generative AI, LLMs, cloud architecture, and data engineering
 
-## 💡 Engineering Interests
+## Engineering Interests
 
 I am particularly interested in:
 
@@ -108,7 +108,7 @@ I am particularly interested in:
 * AI platform scalability and observability
 * Applying Generative AI to software engineering workflows
 
-## 🤝 Let's Connect
+## Let's Connect
 
 I am interested in opportunities and technical discussions around **Generative AI, LLM Engineering, AI Platforms, Agentic AI, and Solution Architecture**.
 
